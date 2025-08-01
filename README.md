@@ -50,9 +50,31 @@ Improved formatting for better readability and future extension
     
     python main.py
 
+ ✅ Expected REST API (Mock Example)
+
+  
+    
+    | Method | URL                  | Description         |
+
+    | ------ | -------------------- | ------------------- |
+
+    | GET    | `/api/employees`     | Get all employees   |
+
+    | GET    | `/api/employees/:id` | Get employee by ID  |
+
+    | POST   | `/api/employees`     | Create new employee |
+
+    | PUT    | `/api/employees/:id` | Update employee     |
+
+    | DELETE | `/api/employees/:id` | Delete employee     |
+
+
+
+
 OUTPUT:-
 
-<img width="950" height="1024" alt="Screenshot 2025-07-31 142359" src="https://github.com/user-attachments/assets/8f2ebed7-7361-4fb9-af8e-81d35288b81e" />
+<img width="1275" height="751" alt="Screenshot 2025-08-01 205549" src="https://github.com/user-attachments/assets/f998dc06-3519-458e-b12b-f0e28c3f29c8" />
+
 
 
     
