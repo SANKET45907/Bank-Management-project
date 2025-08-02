@@ -86,7 +86,7 @@ Improved formatting for better readability and future extension
 
 
 
-OUTPUT:-
+🖼️Screenshots 
 
 <img width="1275" height="751" alt="Screenshot 2025-08-01 205549" src="https://github.com/user-attachments/assets/f998dc06-3519-458e-b12b-f0e28c3f29c8" />
 
