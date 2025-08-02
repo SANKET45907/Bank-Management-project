@@ -50,6 +50,21 @@ Improved formatting for better readability and future extension
     
     python main.py
 
+🧠 3. Types of Banks in India (as an example)
+
+● Commercial Banks – SBI, HDFC, ICICI, etc.
+
+● Co-operative Banks
+
+● Regional Rural Banks (RRBs)
+
+● Development Banks – NABARD, SIDBI
+
+● central Bank – Reserve Bank of India
+
+
+
+
  ✅ Expected REST API (Mock Example)
 
   
