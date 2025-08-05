@@ -1,6 +1,6 @@
 
- 🏦 💰 Bank-Management
-
+ 🏦 💰Bank-Management -Project
+ 
 ✅ Summary of the Bank Employee CRUD Program
 
 This program is a simple web-based Bank Management System focused on handling Employee Records using basic HTML and JavaScript.
