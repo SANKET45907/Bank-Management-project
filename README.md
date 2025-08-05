@@ -1,3 +1,4 @@
+
  🏦 💰 Bank-Management
 
 ✅ Summary of the Bank Employee CRUD Program
@@ -178,6 +179,11 @@ Just double-click on the HTML file or run it with a local web server like Live S
 👩‍💻Someshwar Hokarne 
 
 👩‍💻Tanuja Dongare
+
+👨‍💻 Pratik Shinde
+
+👩‍💻 Jaywanta Kawale
+
 
 
 
